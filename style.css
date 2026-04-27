@@ -71,6 +71,23 @@ body {
     animation: float3 10s ease-in-out infinite;
 }
 
+/* 新增：左侧紫色星云 */
+.bg-left {
+    top: 10%;
+    left: -15%;
+    width: 700px;
+    height: 700px;
+    background: radial-gradient(circle, rgba(139, 92, 246, 0.22) 0%, rgba(109, 40, 217, 0.12) 40%, transparent 70%);
+    filter: blur(60px);
+    animation: float4 14s ease-in-out infinite;
+}
+
+@keyframes float4 {
+    0%, 100% { transform: translate(0, 0) scale(1); }
+    40% { transform: translate(20px, 30px) scale(1.06); }
+    70% { transform: translate(-10px, -20px) scale(0.97); }
+}
+
 @keyframes float1 {
     0%, 100% { transform: translate(0, 0) scale(1); }
     33% { transform: translate(-20px, 10px) scale(1.05); }
