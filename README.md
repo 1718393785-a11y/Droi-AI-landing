@@ -31,11 +31,13 @@ Our proprietary AI understands game design patterns, mechanics, and aesthetics. 
 - **Ripple Animations**: Beautiful click-triggered ripple effects
 
 ### 💡 Smart Templates
-Jumpstart your creativity with curated game templates:
-- 🎭 **RPG Adventures**: Story-driven games with branching narratives
-- 🧩 **Puzzle Games**: Brain teasers with progressive difficulty
-- ⚔️ **Action Platformers**: Fast-paced, rhythm-based gameplay
-- 🏰 **Building Sims**: Creative sandbox experiences
+Jumpstart your creativity with curated game templates — **Roguelikes are our specialty!**
+
+- 🎲 **Roguelike Dungeons (⭐ FAN FAVORITE)**: Procedurally generated dungeon crawlers with permadeath, loot systems, and endless replayability. Every run is unique — from classic fantasy roguelikes to sci-fi space explorers.
+- 🎭 **RPG Adventures**: Story-driven games with branching narratives and character progression
+- 🧩 **Puzzle Games**: Brain teasers with progressive difficulty and unlockable mechanics
+- ⚔️ **Action Platformers**: Fast-paced, rhythm-based gameplay with pixel-perfect controls
+- 🏰 **Building Sims**: Creative sandbox experiences with physics and resource management
 
 ### 📜 Creation History
 - Local storage persistence for all your game ideas
